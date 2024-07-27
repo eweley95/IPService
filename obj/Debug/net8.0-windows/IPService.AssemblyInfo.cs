@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IPService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b797430ed4164523c09545b460f558ca995d3f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+159c8d739510a608001ea98fb15b1a3dafe0fec2")]
 [assembly: System.Reflection.AssemblyProductAttribute("IPService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IPService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
